@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsNesT/static/css/main.31d6cfe0.css",
+    "main.js": "/NewsNesT/static/js/main.656429af.js",
+    "static/js/787.08c0243b.chunk.js": "/NewsNesT/static/js/787.08c0243b.chunk.js",
+    "static/media/loading.gif": "/NewsNesT/static/media/loading.aa835b80d8fc8254ba2b.gif",
+    "index.html": "/NewsNesT/index.html",
+    "main.656429af.js.map": "/NewsNesT/static/js/main.656429af.js.map",
+    "787.08c0243b.chunk.js.map": "/NewsNesT/static/js/787.08c0243b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.656429af.js"
+  ]
+}
